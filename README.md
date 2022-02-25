@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TinoMako
-- 👀 I’m interested in Web3 and Cloud Computing
+- 👀 I’m interested in Web3, Cloud Computing and Python.
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Smart Contracts and Serverless Applications
 - 📫 How to reach me @0xTino on Twitter
