@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3 and Cloud Computing
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Smart Contracts and Serverless Applications
-- 📫 How to reach me @Tino_Mako on Twitter, makombetino@gmail.com
+- 📫 How to reach me @0xTino on Twitter
 
 <!---
 TinoMako/TinoMako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
